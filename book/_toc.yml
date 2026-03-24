@@ -16,7 +16,6 @@ parts:
     chapters:
     - file: chapter2/introduction.md
       sections:
-      - file: chapter2/introduction.md
       - file: chapter2/lotus_case.md
       - file: chapter2/chorzow_case.md
       - file: chapter2/corfu_channel_case.md
