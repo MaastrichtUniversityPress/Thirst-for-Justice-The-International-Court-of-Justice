@@ -1,0 +1,25 @@
+
+
+# 2. Factory at Chorzow Case
+
+Germany v. Poland, Chorzów Factory, Merits, PCIJ Series A No. 17 (1928)
+
+## Historical background
+
+The Treaty of Versailles redrew borders and annexed parts of Upper Silesia from Germany to Poland, which provided protection to German property rights. Such protection was further provided in the 1922 Geneva Convention signed by both countries (p. 21). For reference, Article 6 of the Convention stipulates that Poland can expropriate key assets of Upper Silesia under strict rules, however, German assets are protected from seizure. (PCIJ, 1925)
+
+## Facts
+
+The Factory of Chorzow located in Upper Silesia specialized in nitrogen compounds for industrial and agricultural use. It was owned by two German companies namely, Bayerische Stickstoffwerke AG and Oberschlesische Stickstoffwerke AG. The Factory was originally owned by the German Reich but was later transferred to the German companies (pp. 19 - 20). After parts of Upper Silesia were transferred to Poland after the Treaty of Versailles, they had taken over the nitrate factory as part of their nationalization policies. In July of 1922, a Polish Court had annulled the ownership of the German companies and transferred the ownership to the Polish treasury. This was followed by the physical possession of the factory and continued operation of the factory under Polish Control (p. 22). In May 1925, Germany filed a case against Poland to the PCIJ stating that Poland’s seizure of the Factory violated the Article 6 to 22 of the Geneva Convention of 1922. (p. 32)
+
+## Key issues and position of parties
+
+As an applicant, Germany argued that Poland’s acquisition of the nitrate factory in Chorzow went against Article 6 of the 1922 Geneva Convention which protected the property rights of German Nationals (p. 12). Therefore, Poland must either return the Factory to the two German companies or pay for damages for unlawful expropriation which entailed 75,920,000 Reichsmarks for Oberschlesische Stickstoffwerke A.G (around 152.000.000 euros in today’s money) and 20,179,000 Reichsmarks for Bayerische Stickstoffwerke A.G (a bit more than 40.000.000 euros) (p. 7). In the counterarguments Germany argued that it was claiming reparations for itself and not the companies, since states may claim damages for the suffering of its nationals. Furthermore, the transfer of ownership from the German Reich to the German Companies was valid as it occurred before the border redrawing. As a respondent, Poland argued that the annexation of the nitrate factory had been legal as it conformed with Article 256 of the Treaty of Versailles and their national policies (pp. 21 - 22). Poland claimed that the transfer of ownership was done to circumvent international obligations. Lastly, Germany should not be able to claim damages as only the German companies have the right to claim damages suffered due to the expropriation of the Factory. (p. 27)
+
+## Judgement
+
+The Court judged that Poland’s expropriation of the nitrate factory in Chorzow was contrary to the law as it went against the Geneva Convention of 1922. It was determined that Poland must make reparations for the damage suffered by the German companies and did not set a specific amount on the reparations. However, the Court established that full reparations required restitution _in integrum_ (back to the original condition),  which meant that Poland was obliged to wipe out all the consequences of the unlawful act and reestablish the situation which would, in all probability, have existed if the act had not been committed (pp. 63 - 64). Furthermore, the case established the “Chorzow Factory Principle” which states that a wrongful act under international law or a breach will lead to an obligation to make reparation. Such a reparation must be made to revert the situation into how it would have been if the wrongful act did not occur in the first place (p. 29).
+
+## Historiography
+
+The Chorzow Factory case was landmark case in establishing principles on state responsibility and reparations. Following its judgment, the principle of the primacy of restitution became firmly rooted in the realm of state responsibility. With the adoption of the UNGA Resolution on the Responsibility of States for Internationally Wrongful Acts, this principle secured authoritative support in international law (Torres, 2021, pp. 190–219). Presently, the principle on the primacy of restitutions has led to a more complex reality. Although restitution is the primary means of reparations, it is rarely practiced. This is due to several issues: Tribunals and Courts lack the authority to demand restitution, compensation is the most realistic remedy and the method of enforcing restitution is still an open question (Tams, 2010, pp. 591–593). Additionally, there exist cases such as Costa _Rica v. Nicaragua_ and _Diallo_ that make it difficult to quantify environmental damages or moral injury, evidencing the limits of the full reparation framework (Torres, 2021, pp. 190–219).
