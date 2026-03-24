@@ -1,6 +1,6 @@
 # Introduction
 
-## Chapter 2 Justice on Trial Defining Moments in ICJ History
+## Justice on Trial Defining Moments in ICJ History
 
 This chapter explores some of the most historically significant cases before the International Court of Justice (ICJ). From landmark rulings on the use of force and diplomatic immunity to state responsibility and jurisdictional issues, these cases demonstrate the way in which the ICJ takes part in international conflict resolution and has set important legal precedents.
 
