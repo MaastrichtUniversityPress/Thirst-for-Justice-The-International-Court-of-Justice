@@ -29,3 +29,5 @@ parts:
     - file: chapter3/advisory_opinion.md
     - file: chapter3/whaling_antarctic.md
     - file: chapter3/gabčíkovo_nagymaros_project.md
+    - file: chapter3/aerial_incident.md
+    - file: chapter3/convention_racial_discrimination.md
