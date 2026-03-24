@@ -15,14 +15,13 @@ parts:
   - caption: Chapter 2 Justice on Trial Defining Moments in ICJ History
     chapters:
     - file: chapter2/introduction_chapter2.md
-      sections:
-      - file: chapter2/lotus_case.md
-      - file: chapter2/chorzow_case.md
-      - file: chapter2/corfu_channel_case.md
-      - file: chapter2/nuclear_test_case.md
-      - file: chapter2/tehran_hostages_case.md
-      - file: chapter2/nicaragua_case.md
-      - file: chapter2/bosnian_genocide_case.md
+    - file: chapter2/lotus_case.md
+    - file: chapter2/chorzow_case.md
+    - file: chapter2/corfu_channel_case.md
+    - file: chapter2/nuclear_test_case.md
+    - file: chapter2/tehran_hostages_case.md
+    - file: chapter2/nicaragua_case.md
+    - file: chapter2/bosnian_genocide_case.md
     - file: chapter2/conclusions.md
   - caption: Miscellaneous
     chapters:
