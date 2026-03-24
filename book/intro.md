@@ -1,5 +1,3 @@
-<![endif]-->
-
 # **Introduction**
 
 **Mónica García-Salmones Rovira**
@@ -34,7 +32,7 @@ The third chapter discusses an Advisory Opinion and seven cases shaping the futu
 
 To conclude, we have  realised that issues and conflicts about political economy seem to end up extremely rarely in front of the Court, despite their evident importance. Nevertheless, and perhaps in defience of a global order of superpowers, this text embodies our reflections and musings during the previous months on the relevance of justice, also as it is practised by the ICJ, for a truly political world. We hope that the common effort represented by this booklet contributes to a greater knowledge of an institution that was from the beginning intended to be the Court for the World.
 
-<![endif]-->
+
 
 ## Bibliography
 
