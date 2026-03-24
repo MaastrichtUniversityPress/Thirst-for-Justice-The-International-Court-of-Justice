@@ -1,3 +1,5 @@
+# Introduction
+
 This chapter explores some of the most historically significant cases before the International Court of Justice (ICJ). From landmark rulings on the use of force and diplomatic immunity to state responsibility and jurisdictional issues, these cases demonstrate the way in which the ICJ takes part in international conflict resolution and has set important legal precedents.
 
 The cases in this chapter are viewed in terms of the relevant factual historical background, legal arguments, judicial reasoning, and with a focus on their broader political implications within the international community. By revisiting these landmark decisions, this chapter not only looks at the legal history of the ICJ, but also highlights how international law has been shaped and transformed through the Court’s jurisprudence.
