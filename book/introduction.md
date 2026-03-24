@@ -1,6 +1,4 @@
-<![endif]-->
-
-# **Introduction**
+# Introduction
 
 **Mónica García-Salmones Rovira**
 
