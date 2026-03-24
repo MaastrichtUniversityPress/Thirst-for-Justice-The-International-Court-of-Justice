@@ -4,19 +4,19 @@ format: jb-book
 root: intro.md
 
 parts:
+  - caption: Introduction
+    chapters:
+    - file: introduction.md
   - caption: Chapter 1 History and Structure of the International Court of Justice
-    numbered: false                 # Default value (line can be removed), whether to number the chapters/sections in this part, configuration part of sphinx-external-toc (https://sphinx-external-toc.readthedocs.io/en/latest/intro.html)
-    style: numerical                # Default value (line can be removed), style of numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
-    restart_numbering: false        # Default value (line can be removed), whether to restart numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
     chapters:
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
-  - caption: Exercises
+  - caption: Chapter 2 Justice on Trial: Defining Moments in ICJ History
     chapters:
-    - file: exercises.md
+    - file: chapter2/introduction.md
       sections:
-      - file: exercises/001.md
+      - file: chapter2/introduction.md
       - file: exercises/002.md
       - file: exercises/003.md
       - file: exercises/004.md
