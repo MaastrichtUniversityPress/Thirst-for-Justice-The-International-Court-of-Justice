@@ -14,7 +14,7 @@ parts:
       - file: some_content/text_and_code.ipynb
   - caption: Chapter 2 Justice on Trial Defining Moments in ICJ History
     chapters:
-    - file: chapter2/introduction.md
+    - file: chapter2/introduction_chapter2.md
       sections:
       - file: chapter2/lotus_case.md
       - file: chapter2/chorzow_case.md
