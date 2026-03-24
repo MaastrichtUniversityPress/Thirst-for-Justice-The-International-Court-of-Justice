@@ -1,9 +1,35 @@
-# `<Thirst for Justice: The International Court of Justice>`
+# Thirst for Justice: The International Court of Justice
 
-`<Symbolic Power or Global Law?>`
+Symbolic Power or Global Law?
 
 ## Contributors
-- `<Mónica García-Salmones Rovira, Amy-lou de Longueville, Dániel Gargya, Nina Guichou, Deniz Guner, Maruška Kozáková, Marie Perniaux, Påhl Berglund, Willem den Boer Bongaerts, Maya Herrlett, Emilia Jokinen, Alisha Nadine Harahap, Luisa Reichwein, Sara Zoppi, Aliya Sara Akdogan, Erin Behlic, Marie-Julie Cantraine, Monica García-Salmones, Hiella Gawhari, Flora Hapkemeyer, Mihnea Pînzaru, Sherife Su Mehmetaliogullari, Sofia Naryzhnyaya, Nela Rozdalovska, Elide Saia, Brina Samardzija, Julie Subke >`
+- Mónica García-Salmones Rovira
+- Amy-lou de Longueville
+- Dániel Gargya
+- Nina Guichou
+- Deniz Guner
+- Maruška Kozáková
+- Marie Perniaux
+- Påhl Berglund
+- Willem den Boer Bongaerts
+- Maya Herrlett
+- Emilia Jokinen
+- Alisha Nadine Harahap
+- Luisa Reichwein
+- Sara Zoppi
+- Aliya Sara Akdogan
+- Erin Behlic
+- Marie-Julie Cantraine
+- Hiella Gawhari
+- Flora Hapkemeyer
+- Mihnea Pînzaru
+- Sherife Su Mehmetaliogullari
+- Sofia Naryzhnyaya
+- Nela Rozdalovska
+- Elide Saia
+- Brina Samardzija
+- Julie Subke
+
 
 ## Reuse content
 Feel free to reuse this content or contribute to it. Please give appropriate credit, provide a link to the license, and indicate if changes were made ([CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/))
