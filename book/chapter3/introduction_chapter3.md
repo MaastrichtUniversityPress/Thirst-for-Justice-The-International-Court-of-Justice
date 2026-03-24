@@ -1,8 +1,8 @@
-# Current Cases of the ICJ - How the Court Shapes our Future
+# Introduction
+
+## Current Cases of the ICJ - How the Court Shapes our Future
 
 *Aliya Sara Akdogan, Erin Behlic, Marie-Julie Cantraine, Monica García-Salmones, Hiella Gawhari, Flora Hapkemeyer, Mihnea Pînzaru, Sherife Su Mehmetaliogullari, Sofia Naryzhnyaya, Nela Rozdalovska, Elide Saia, Brina Samardzija, Julie Subke*
-
-## Introduction
 
 Pending cases or contentious cases refer to legal proceedings that are ongoing but have not yet been finalized or resolved, or legal proceedings relating to a dispute or controversy. Unlike historical cases, whose outcomes deeply shaped the functions and the dynamics of international law, we do not yet know what will be the outcome of the pending or recently resolved cases and advisory opinions that appear in this chapter. But we can already affirm that they illustrate how the ICJ continues to play its role in ongoing geopolitical issues as the principal judicial organ of the United Nations.
 
