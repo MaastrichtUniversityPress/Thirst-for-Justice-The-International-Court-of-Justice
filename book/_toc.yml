@@ -12,7 +12,7 @@ parts:
     - file: Chapter 1/chapter1.md
       sections:
       - file: Chapter 1/bibliography.md
-  - caption: Chapter 2 Justice on Trial Defining Moments in ICJ History
+  - caption: Chapter 2
     chapters:
     - file: chapter2/introduction_chapter2.md
       sections:
