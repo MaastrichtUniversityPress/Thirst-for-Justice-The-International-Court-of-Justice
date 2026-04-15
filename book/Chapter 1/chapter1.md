@@ -1,10 +1,9 @@
-# Chapter 1
-
-## History and Structure of the International Court of Justice
+# History and Structure of the International Court of Justice
 
 _Amy-lou de Longueville, Dániel Gargya, Nina Guichou, Deniz Guner, Maruška Kozáková, Marie Perniaux_
 
-### Introduction
+##<img width="593" height="209" alt="Picture1" src="https://github.com/user-attachments/assets/abcc25b5-a073-408b-96db-9ab725016ac4" />
+ Introduction
 
 The International Court of Justice Court (ICJ) "finds," "affirms," "is convinced,"…the headlines of well-established news outlets seemed to be permeated by the Court’s actions, whose restricted tone may at some points anger the readers, but be the source of rejoice for others.  What does seem to be obvious is that the existence of an authority seemingly “hovering” above states, at places reprimanding, sanctioning or in appearance punishing them, may appear out of line with the expectations of sovereignty many link to the legal international order and its enforcement. Though increasingly important with regards to recent developments on the world stage, it is still a great unknown for the larger public. This booklet addresses the reason for the existence of the ICJ, and what better way to do that than by starting to understand its purpose through the historical lenses of this chapter.
 
@@ -22,7 +21,7 @@ Given the challenges listed above, it is imperative that the general public and 
 
 Below appears a bird’s eyeview of the history and evolution of the ICJ. It will be explained at length in the following pages.
 
-IMAGE
+<img width="593" alt="Picture1" src="https://github.com/user-attachments/assets/417b8d39-4fe3-4a89-af82-ffddac2c7054" />
 
 ### The Permanent Court of Arbitration
 
