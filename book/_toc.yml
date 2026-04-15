@@ -7,7 +7,7 @@ parts:
   - caption: Introduction
     chapters:
     - file: introduction.md
-  - caption: Chapter 1 History and Structure of the International Court of Justice
+  - caption: Chapter 1
     chapters:
     - file: Chapter 1/chapter1.md
       sections:
