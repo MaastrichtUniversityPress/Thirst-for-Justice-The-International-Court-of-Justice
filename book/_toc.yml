@@ -9,9 +9,9 @@ parts:
     - file: introduction.md
   - caption: Chapter 1 History and Structure of the International Court of Justice
     chapters:
-    - file: some_content/overview.md
+    - file: Chapter 1/chapter1.md
       sections:
-      - file: some_content/text_and_code.ipynb
+      - file: Chapter 1/bibliography.md
   - caption: Chapter 2 Justice on Trial Defining Moments in ICJ History
     chapters:
     - file: chapter2/introduction_chapter2.md
