@@ -1,4 +1,5 @@
-# Introduction
+# Thirst for Justice: The International Court of Justice
+## Symbolic Power or Global Law?
 
 **Mónica García-Salmones Rovira**
 
