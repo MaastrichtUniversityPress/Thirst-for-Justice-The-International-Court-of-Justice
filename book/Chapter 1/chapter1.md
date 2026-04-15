@@ -2,8 +2,7 @@
 
 _Amy-lou de Longueville, Dániel Gargya, Nina Guichou, Deniz Guner, Maruška Kozáková, Marie Perniaux_
 
-##<img width="593" height="209" alt="Picture1" src="https://github.com/user-attachments/assets/abcc25b5-a073-408b-96db-9ab725016ac4" />
- Introduction
+## Introduction
 
 The International Court of Justice Court (ICJ) "finds," "affirms," "is convinced,"…the headlines of well-established news outlets seemed to be permeated by the Court’s actions, whose restricted tone may at some points anger the readers, but be the source of rejoice for others.  What does seem to be obvious is that the existence of an authority seemingly “hovering” above states, at places reprimanding, sanctioning or in appearance punishing them, may appear out of line with the expectations of sovereignty many link to the legal international order and its enforcement. Though increasingly important with regards to recent developments on the world stage, it is still a great unknown for the larger public. This booklet addresses the reason for the existence of the ICJ, and what better way to do that than by starting to understand its purpose through the historical lenses of this chapter.
 
