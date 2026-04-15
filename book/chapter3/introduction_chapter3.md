@@ -1,6 +1,4 @@
-# Introduction
-
-## Current Cases of the ICJ - How the Court Shapes our Future
+# Current Cases of the ICJ - How the Court Shapes our Future
 
 *Aliya Sara Akdogan, Erin Behlic, Marie-Julie Cantraine, Monica García-Salmones, Hiella Gawhari, Flora Hapkemeyer, Mihnea Pînzaru, Sherife Su Mehmetaliogullari, Sofia Naryzhnyaya, Nela Rozdalovska, Elide Saia, Brina Samardzija, Julie Subke*
 
