@@ -4,7 +4,7 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Thirst for Justice: The International Court of Justice
+  - caption: Thirst for Justice
     chapters:
     - file: preface.md
     - file: introduction.md
