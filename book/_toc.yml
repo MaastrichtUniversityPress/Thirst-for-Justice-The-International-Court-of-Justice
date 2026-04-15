@@ -23,7 +23,7 @@ parts:
       - file: chapter2/tehran_hostages_case.md
       - file: chapter2/nicaragua_case.md
       - file: chapter2/bosnian_genocide_case.md
-    - file: chapter2/conclusions.md
+      - file: chapter2/conclusions.md
   - caption: Chapter 3
     chapters:
     - file: chapter3/introduction_chapter3.md
@@ -35,7 +35,7 @@ parts:
       - file: chapter3/convention_racial_discrimination.md
       - file: chapter3/application_convention_against.md
       - file: chapter3/crime_of_genocide.md
-      - file: case_against_afghanistan.md
+      - file: chapter3/case_against_afghanistan.md
   - caption: Conclusions & Bibliography
     chapters:
     - file: conclusions_bibliography/conclusions.md
