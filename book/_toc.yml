@@ -4,8 +4,10 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Introduction
+  - caption: Thirst for Justice: The International Court of Justice </br>
+    Symbolic Power or Global Law?
     chapters:
+    - file: preface.md
     - file: introduction.md
   - caption: Chapter 1
     chapters:
