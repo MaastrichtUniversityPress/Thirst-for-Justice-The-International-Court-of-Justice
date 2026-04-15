@@ -24,7 +24,7 @@ parts:
       - file: chapter2/nicaragua_case.md
       - file: chapter2/bosnian_genocide_case.md
     - file: chapter2/conclusions.md
-  - caption: Chapter 3 Current Cases of the ICJ - How the Court Shapes our Future
+  - caption: Chapter 3
     chapters:
     - file: chapter3/introduction_chapter3.md
       sections:
