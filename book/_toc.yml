@@ -36,5 +36,5 @@ parts:
     - file: case_against_afghanistan.md
   - caption: Conclusions & Bibliography
     chapters:
-    - file: conclusion_bibliography/conclusion.md
-    - file: conclusion_bibliography/bibliography.md
+    - file: conclusions_bibliography/conclusions.md
+    - file: conclusions_bibliography/bibliography.md
