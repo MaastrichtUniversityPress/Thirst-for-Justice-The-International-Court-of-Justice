@@ -6,7 +6,6 @@ root: intro.md
 parts:
   - caption: Thirst for Justice – The International Court of Justice, Symbolic Power or Global Law?
     chapters:
-    - file: preface.md
     - file: introduction.md
   - caption: Chapter 1
     chapters:
