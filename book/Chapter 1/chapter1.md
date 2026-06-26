@@ -16,6 +16,13 @@ Some States see the existence of the ICJ as a threat to national sovereignty, wh
 
 Given the challenges listed above, it is imperative that the general public and the readers become acquainted with this institution. Recently the media seems to be obssessed, notably, on the Advisory Opinion requested by the UN General Assembly on the _Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem_ (ICJ, 2023). Thus, many have been first acquainted with the Court in light of the widespread attention devoted to the conflict in Gaza. However, its procedural workings, possible outcomes and most importantly, its history and purpose on the international stage and impact on the implicated States, remain obscure. The goal of this chapter is to illuminate those fundamental aspects of the Court.
 
+### Timeline
+
+Below appears a bird’s eyeview of the history and evolution of the ICJ. It will be explained at length in the following pages.
+
+<img width="593" alt="Picture1" src="https://github.com/user-attachments/assets/417b8d39-4fe3-4a89-af82-ffddac2c7054" />
+
+
 ### The Permanent Court of Arbitration
 
 Though this chapter primarily addresses the history and work of the ICJ, it is also necessary to address the existence of its neighbour, the Hague-based, Peace Palace-located Permanent Court of Arbitration (PCA).
@@ -34,14 +41,7 @@ Following the First World War, it experienced a significant recession in cases. 
 
 The PCA has in the last decades experienced a substantial rebirth, with an effective increase in cases brought in front of it for administration and remains a central pillar in international dispute resolution service-providing. Its administrative framework has left a substantive legacy in the world of international adjudication.
 
-### Timeline
-
-Below appears a bird’s eyeview of the history and evolution of the ICJ. It will be explained at length in the following pages.
-
-<img width="593" alt="Picture1" src="https://github.com/user-attachments/assets/417b8d39-4fe3-4a89-af82-ffddac2c7054" />
-
-
-## The Rise and Fall of the Permanent Court of International Justice
+### The Rise and Fall of the Permanent Court of International Justice
 
 The dire state of global affairs after the Great War compelled lawmakers and world leaders of the time to seek a peaceful manner of interstate dispute resolution. In this context, the League of Nations emerged from the Paris Peace Conference negotiations in 1920 and, alongside it, the PCIJ. However, the idea of international conflict adjudication was not novel in the 1920s, as some efforts toward it had already been made during the Second Hague Conference in 1907 (Fachiri, 1925). These efforts ultimately ended in the development of international arbitration instead (Fachiri, 1925).
 
@@ -87,13 +87,11 @@ No genuine attempt was made during the war to revive or maintain the Court. The 
 
 ### Dissolution and Successor’s Institution
 
-The United Nations was established by the Allied Powers to replace the defunct League of Nations after WWII ended in 1945. The ICJ was created as the UN’s new principal judicial body in accordance with Article 92 of the UN Charter (United Nations, n.d).
+The United Nations was established by the Allied Powers to replace the defunct League of Nations after WWII ended in 1945. The ICJ was created as the UN’s new principal judicial body in accordance with Article 92 of the UN Charter (United Nations, n.d). The ICJ inherited the PCIJ’s procedures, location and archives and in certain cases, personnel (JusMundi, n.d), even though it was a new organisation in theory. The PCIJ was disbanded in April 1946. Since the ICJ started operating in the same Peace Palace, the transition went smoothly. However, the consequences of the five years of total inaction were notable: the PCIJ had not adjusted to the realities of war. It failed to endure the strains of international conflict in spite of its early successes.
 
-The ICJ inherited the PCIJ’s procedures, location and archives and in certain cases, personnel (JusMundi, n.d), even though it was a new organisation in theory. The PCIJ was disbanded in April 1946. Since the ICJ started operating in the same Peace Palace, the transition went smoothly. However, the consequences of the five years of total inaction were notable: the PCIJ had not adjusted to the realities of war. It failed to endure the strains of international conflict in spite of its early successes.
+## The ICJ from the End of the Cold War Until Now
 
-### The ICJ from the End of the Cold War Until Now
-
-The end of the Cold War allowed for international relations to resume to their normal functioning. This ease of tensions on the international stage is reflected in the workload of the ICJ. The Court issued twice as many judgements a year between 1990 and 2012: 2.72 judgements a year on average, as it did between 1946 and 1989: 1.18 judgements a year on average. (International Court of Justice, 2012). This increase in cases brought before the Court, led to challenges regarding the ICJ’s functioning that it still has to face nowadays. As the Court is acquiring a gradually more prominent role on the international stage, one may ponder on the extent to which its rulings impact international relations, as well as the ways its efficiency may be improved.
+The end of the Cold War allowed for international relations to resume their normal functioning. This ease of tensions on the international stage is reflected in the workload of the ICJ. The Court issued twice as many judgements a year between 1990 and 2012: 2.72 judgements a year on average, as it did between 1946 and 1989: 1.18 judgements a year on average. (International Court of Justice, 2012). This increase in cases brought before the Court, led to challenges regarding the ICJ’s functioning that it still has to face nowadays. As the Court is acquiring a gradually more prominent role on the international stage, one may ponder on the extent to which its rulings impact international relations, as well as the ways its efficiency may be improved.
 
 Some of the main challenges the ICJ has to face concern jurisdiction. States are sovereign entities on the international stage, and the Court only has jurisdiction when States have given it authority to issue rulings on specific subject matters. In a word, the Court can only adjudicate on a certain conflict when the States concerned allow it. This constitutes a limit to the efficiency of the Court and to its ability to have a say in international disputes. A State aware of its international responsibility for a breach of international law might decide not to give the Court jurisdiction. Not only will the State then not be held accountable, but the Court will further see its role diminished as international adjudicator. This first general issue related to jurisdiction is derived from the principle of sovereignty and can hardly be remedied.
 
@@ -127,8 +125,10 @@ The Court mainly serves two functions: contentious and advisory (Hernández, 202
 
 The contentious jurisdiction focuses on the disputes between states, submitted to the Court by states (art. 34 (1) ICJ Statute) that accept the jurisdiction and established rules of procedure of the Court (Hernández, 2022, p. 338).  States can provide their consent towards the jurisdiction of the Court in the four following situations according to the Article 36 of the ICJ Statute:
 
-1) The case can be referred to the court by agreement of the parties, 
-2) the matter might be specifically mentioned in the United Nations Charter, 3) the conflict might have arisen from a treaty that contains a clause that refers any conflict to the court, and 4) the states can directly consent to the jurisdiction of the court.
+1) The case can be referred to the court by agreement of the parties,
+2) the matter might be specifically mentioned in the United Nations Charter,
+3) the conflict might have arisen from a treaty that contains a clause that refers any conflict to the court, and
+4) the states can directly consent to the jurisdiction of the court.
 
 However, states may also challenge the Court’s jurisdiction through a procedure called the Preliminary Objection. During this procedure, states can base their objections on the competence of the Court, the time of which the dispute occurred, and the dispute not falling under the jurisdiction of the ICJ (Hernández, 2022, p. 344).  The decision of the Court, while it is exercising its contentious jurisdiction, is binding upon the state parties.
 
