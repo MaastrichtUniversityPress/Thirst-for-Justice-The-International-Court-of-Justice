@@ -16,13 +16,13 @@ Some States see the existence of the ICJ as a threat to national sovereignty, wh
 
 Given the challenges listed above, it is imperative that the general public and the readers become acquainted with this institution. Recently the media seems to be obssessed, notably, on the Advisory Opinion requested by the UN General Assembly on the _Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem_ (ICJ, 2023). Thus, many have been first acquainted with the Court in light of the widespread attention devoted to the conflict in Gaza. However, its procedural workings, possible outcomes and most importantly, its history and purpose on the international stage and impact on the implicated States, remain obscure. The goal of this chapter is to illuminate those fundamental aspects of the Court.
 
-### Timeline
+## Timeline
 
 Below appears a bird’s eyeview of the history and evolution of the ICJ. It will be explained at length in the following pages.
 
 <img width="593" alt="Picture1" src="https://github.com/user-attachments/assets/417b8d39-4fe3-4a89-af82-ffddac2c7054" />
 
-### The Permanent Court of Arbitration
+## The Permanent Court of Arbitration
 
 Though this chapter primarily addresses the history and work of the ICJ, it is also necessary to address the existence of its neighbour, the Hague-based, Peace Palace-located Permanent Court of Arbitration (PCA).
 
