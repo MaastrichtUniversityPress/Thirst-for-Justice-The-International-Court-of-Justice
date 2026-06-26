@@ -1,7 +1,5 @@
 # Introduction
-## Thirst for Justice: The International Court of Justice - Symbolic Power or Global Law?
 
-**Mónica García-Salmones Rovira**
 
 The International Court of Justice (ICJ) is a core judicial institution of the United Nations’ universe. Important as the ICJ is, the general public has often viewed it as an elusive organization. Differently, we have had the opportunity in recent times of watching or reading about the Court in the news. Readers may recall, for instance, South African dramatic Oral Procceedings in the [_Case of Prevention and Punishment of Genocide in the Gaza Strip_](https://www.youtube.com/watch?v=0Q_zTb9dfGU) in early January 2024. This introduction to the public opinion has sparked broad interest in the World Court located in The Hague. The idea of writing a booklet on the Court emerged from these events. The aim of this booklet is to disseminate knowledge about the ICJ beyond especialised audiences, to anyone interested. But also to write a text that would deal with the Court with more depth than simply a short piece of news in the internet.
 
@@ -9,11 +7,11 @@ This booklet is the result of an ICJ authors’ course during the spring and sum
 
 Initially the work ahead was daunting for several reasons. Not the least of them was the current challenges to contemporary international legal order, as we have known it for the past three decades. It seemed at times that we were building a statue to a dead personage.
 
-When we started studying the Greenland case (_Legal Status of Eastern Greenland_, 1933), the President of a big power declared that ‘I don’t know, really, what claim Denmark has to it’ (Trump, 2025), while recent accounts of [Greenland’s period as a colony](https://www.theguardian.com/world/2024/mar/04/greenlandic-women-sue-danish-state-for-contraceptive-violation-coil) in the late 20th century have puzzled us. Together with the rest of the world we have witnessed with frustration the frantic violence and destruction in Gaza (Benvenisti & Gans 2025). The customary prohibition of the use of force dealt with in the Nicaraguan cases (_Case concerning Military and Paramilitary Activities in and against Nicaragua_, 1986) seemed to be violated but multiplied by hundred, during the time our course took place, in the armed conflict between Russia and Ukraine (Milanovich 2025).
+When we started studying the Greenland case (_Legal Status of Eastern Greenland_, 1933), the President of a big power declared that ‘I don’t know, really, what claim Denmark has to it’ (Trump, 2025). Together with the rest of the world we have witnessed with frustration the frantic violence and destruction in Gaza (Benvenisti & Gans 2025). The customary prohibition of the use of force dealt with in the Nicaraguan cases (_Case concerning Military and Paramilitary Activities in and against Nicaragua_, 1986) seemed to be violated but multiplied by hundred, during the time our course took place, in the armed conflict between Russia and Ukraine (Milanovich 2025).
 
 However, when writing about the ICJ we did not become hopeless about the role of international law in world conflicts. For instance, study of the South West Africa Cases and Advisory Opinion (_Legal Consequences of the Continued Presence of South Africa in Namibia Notwithstanding Security Council Resolution_ 276, 1971) showed us that the world changes and that situations of injustice towards peoples will be transformed in unexpected ways – as it happened in the case of oficial appartheid. Moreover, we understood that the ICJ appears to have had a role in those transformations. The recent Advisory Opinion by the Court on the ‘Obligations of States in Respect of Climate Change’ of 23 July 2025 has been received with much optimism, despite existing polarisation in world politics. Experts describe it as one that should be taught across the law curriculum, and an Opinion of the ICJ that shall have a future impact in world politics and governance, if well translated to non-specialists.
 
-But our task in writing this booklet goes beyond sharing information about the ICJ with interested readers. We aim at analysing the question of whether the work of the ICJ has a continued meaning for the world community, despite the latter’s trend towards a global dynamics of multipolar power or perhaps, due to that (Hakimi & Cogan, 2025). Our answer is that it does.
+But our task in writing this booklet went beyond sharing information about the ICJ with interested readers. We aimed at analysing the question of whether the work of the ICJ has a continued meaning for the world community, despite the latter’s trend towards a global dynamics of multipolar power or perhaps, due to that (Hakimi & Cogan, 2025). Our answer is that it does.
 
 What exactly that meaning is, was one of the threads guiding our research. Is the ICJ producing authentic global law, a law for the entire world community? That the Court has an impact on States is certain. But what kind of impact is that? Is it a juridical impact of a real world court of justice, comparable to that of the domestic courts? Or are its decisions instead, limited to create instances of symbolic power in which the ICJ stirs up, momentarily, the juridical conscience of mankind and of its representatives in the Court, the States?
 
@@ -27,41 +25,42 @@ For that purpose we have produced three chapters dealing with the history of the
 
 The cases presented in the next two chapters have been chosen after producing a large pool among experienced international lawyers. The question we asked was: ‘which cases do you think that define the work of the PCJ and ICJ?’ Ten people answered the pool, and thus, after pondering the results, we selected the cases.
 
-The second chapter deals with landmark cases of the history of the ICJ. The background history, facts and legal issues of the cases, together with some of their further political implications are exposed in a clear manner to help the reader understand their key issues. This chapter deals with _The Case of the S.S. Lotus_, (1927), _The Factory at Chorzow Case_ (1928), _The Corfu Channel Case_ (1949), _The Nuclear Tests Case_ (1974), _The Tehran Hostages Case_ (1980), _The Nicaragua Case_ (1986) and finally, _The Bosnian Genocide Case_ (2007). All in all, these series of cases afford an impressive overview of some of the main geopolitical issues of the 20th and early 21st century.
+The second chapter deals with landmark cases of the history of the PCIJ and the ICJ. The background history, facts and legal issues of the cases, together with some of their further political implications are exposed in a clear manner to help the reader understand their key issues. This chapter deals with _The Case of the S.S. Lotus_, (1927), _The Factory at Chorzow Case_ (1928), _The Corfu Channel Case_ (1949), _The Nuclear Tests Case_ (1974), _The Tehran Hostages Case_ (1980), _The Nicaragua Case_ (1986) and finally, _The Bosnian Genocide Case_ (2007). All in all, these series of cases afford an impressive overview of some of the main geopolitical issues of the 20th and early 21st century.
 
 The third chapter discusses an Advisory Opinion and seven cases shaping the future of international legal order in quite substantial matters. The Court itself has declared in the _Advisory Opinion on the Obligations of States in Respect of Climate Change,_ that in the question at hand, it was dealing not only ‘with a legal problem’ but ‘with an existential problem’ (par. 465). And the case of the _Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip_ has been, as mentioned, much in the public eye during the last couple of years sparking a hue and cry. Other cases, such as _The Whaling in the Antarctic case_, _the Aerial Incident_, the _Gabčíkovo-Nagymaros Project, the Application of the Convention on the Elimination of All Forms of Racial Discrimination_ and the case of the _Application of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment_ showcase big themes of our current and future world: the protection of the environment and of nature, armed conflicts and violations of human rights. Since the countries involved have not yet instituted proceedings, the _Case Against Afghanistan for Systematic Violations of Women’s Rights_ is so far only a ‘potential’ case.
 
-To conclude, we have  realised that issues and conflicts about political economy seem to end up extremely rarely in front of the Court, despite their evident importance. Nevertheless, and perhaps in defience of a global order of superpowers, this text embodies our reflections and musings during the previous months on the relevance of justice, also as it is practised by the ICJ, for a truly political world. We hope that the common effort represented by this booklet contributes to a greater knowledge of an institution that was from the beginning intended to be the Court for the World.
+To conclude, we have realised that issues and conflicts about political economy seem to end up extremely rarely in front of the Court, despite their evident importance. Nevertheless, and perhaps in defience of a global order of superpowers, this text embodies our reflections and musings during the previous months on the relevance of justice, also as it is practised by the ICJ, for a truly political world. We hope that the common effort represented by this booklet contributes to a greater knowledge of an institution that was from the beginning intended to be the Court for the World.
 
 
 ## Bibliography
 
+
 **Cases and Advisory Opinions**
 
-_Legal Status of Eastern Greenland_, Denmark v. Norway, 5 April 1933, PCIJ  Series A/B No 53
+_Legal Status of Eastern Greenland_ (Denmark v. Norway), 5 April 1933, PCIJ Ser. A/B No. 53.
 
-_Legal Consequences of the Continued Presence of South Africa in Namibia Notwithstanding Security Council Resolution 276 (1970_) ICJ GL No 53 [1971] ICJ Rep 16
+_Legal Consequences for States of the Continued Presence of South Africa in Namibia (South West Africa) notwithstanding Security Council Resolution 276 (1970)_ (Advisory Opinion) (ICJ Rep 16).
 
-_Case concerning Military and Paramilitary Activities in and against Nicaragua ( Nicaragua v United States of America)_ (Merits) [1986] ICJ Rep 14.
+_Military and Paramilitary Activities in and against Nicaragua_ (Nicaragua v. United States of America) (Merits) (ICJ Rep 14).
 
 _Obligations of States in respect of Climate Change_ (Advisory Opinion) (International Court of Justice, General List No 187, 23 July 2025)
 
 **Other Sources**
 
-C. J. R. Dugard, (1966)  The South West Africa Cases, Second Phase_, South African Law Journal 83(39)_ 429-460
+C. J. R. Dugard, ‘_The South West Africa Cases, Second Phase_’, South African Law Journal, 83 (3), 429–460 (1966).
 
-Monica Hakimi and Jacob Katz Cogan (2025). The End of the U.S.-Backed International Order and the Future of International Law. _American Journal of International Law._ 119(2) 279-290. doi:10.1017/ajil.2025.9
+Monica Hakimi and Jacob Katz Cogan, ‘_The End of the U.S.-Backed International Order and the Future of International Law_’, American Journal of International Law, 119 (2), 279–290 (2025), doi:10.1017/ajil.2025.9.
 
-Ole Spierman (2005). _International Legal Argument in the Permanent Court of International Justice. The Rise of the International Judiciary_. Cambridge University Press.
+Ole Spiermann, _International Legal Argument in the Permanent Court of International Justice: The Rise of the International Judiciary_ (Cambridge University Press, 2005).
 
-Gleider I. Hernández (2014). _The International Court of Justice and the Judicial Function._ Oxford University Press.
+Gleider I. Hernández, _The International Court of Justice and the Judicial Function_ (Oxford University Press, 2014).
 
-President Donald Trump (2025). Press Gaggle on Airforce One en Route to Miami, January 25. 2025 _Rollcall.com_. https://rollcall.com/factbase/trump/transcript/donald-trump-press-gaggle-air-force-one-january-25-2025/
+Donald J. Trump, ‘_Press Gaggle on Air Force One en Route to Miami, January 25, 2025_’, Roll Call, available at https://rollcall.com/factbase/trump/transcript/donald-trump-press-gaggle-air-force-one-january-25-2025/.
 
-Philippa Webb and Daisy Peterson (2025). The “Loaded Weapon” of Presidential Immunity: An International Law Perspective on Trump v. United States. _Ejiltalk.org_. https://www.ejiltalk.org/the-loaded-weapon-of-presidential-immunity-an-international-law-perspective-on-trump-v-united-states/
+Philippa Webb and Daisy Peterson, ‘_The “Loaded Weapon” of Presidential Immunity: An International Law Perspective on Trump v. United States_’, EJIL: Talk! (2025), available at https://www.ejiltalk.org/the-loaded-weapon-of-presidential-immunity-an-international-law-perspective-on-trump-v-united-states/.
 
-Eyal Benvenisti and Chaim Gans (2025), Our Duty to Explain Israel’s Operation to “Concentrate and Move Population” in Gaza is a Manifest War Crime. _Justsecurity.org_. https://www.justsecurity.org/116459/israel-gaza-gideon-chariots-humanitarian-city/
+Eyal Benvenisti and Chaim Gans, ‘_Our Duty to Explain Israel’s Operation to “Concentrate and Move Population” in Gaza is a Manifest War Crime_’, Just Security (2025), available at https://www.justsecurity.org/116459/israel-gaza-gideon-chariots-humanitarian-city/.
 
-Marko Milanovic. (2025). The European Court’s Merits Judgment in Ukraine and the Netherlands v. Russia: As Good as It Gets (Almost). _Ejiltalk.org_. [https://www.ejiltalk.org/the-european-courts-merits-judgment-in-ukraine-and-the-netherlands-v-russia-as-good-as-it-gets-almost/](https://www.ejiltalk.org/the-european-courts-merits-judgment-in-ukraine-and-the-netherlands-v-russia-as-good-as-it-gets-almost/)
+Marko Milanović, ‘_The European Court’s Merits Judgment in Ukraine and the Netherlands v. Russia: As Good as It Gets (Almost)_’, EJIL: Talk! (2025), available at https://www.ejiltalk.org/the-european-courts-merits-judgment-in-ukraine-and-the-netherlands-v-russia-as-good-as-it-gets-almost/.
 
-Francesco Sindico, Christina Voigt, Ana Kantzelis, Caroline Foster, Nilufer Oral, Margaret Young, Harro van Asselt, and Corina Heri during the IUCN (International Union for the Conservation of Nature) WCEL webinar: ‘[The ICJ Climate Change Advisory Opinion: A Turning Point for Climate Justice from the World Court’](https://www.youtube.com/watch?v=g4yP055sdKY)
+Francesco Sindico, Christina Voigt, Ana Kantzelis, Caroline Foster, Nilüfer Oral, Margaret Young, Harro van Asselt, and Corina Heri, IUCN WCEL webinar: ‘_The ICJ Climate Change Advisory Opinion: A Turning Point for Climate Justice from the World Court_’ (presentation/webinar, IUCN World Commission on Environmental Law, 2025).

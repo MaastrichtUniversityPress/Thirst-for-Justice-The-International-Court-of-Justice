@@ -4,7 +4,7 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Thirst for Justice – The International Court of Justice, Symbolic Power or Global Law?
+  - caption: Thirst for Justice - The International Court of Justice, Symbolic Power or Global Law?
     chapters:
     - file: colophon.md
     - file: acknowledgements.md
@@ -26,6 +26,7 @@ parts:
       - file: chapter2/nicaragua_case.md
       - file: chapter2/bosnian_genocide_case.md
       - file: chapter2/conclusions.md
+      - file: chapter2/bibliography.md
   - caption: Chapter 3
     chapters:
     - file: chapter3/introduction_chapter3.md
@@ -38,7 +39,7 @@ parts:
       - file: chapter3/application_convention_against.md
       - file: chapter3/crime_of_genocide.md
       - file: chapter3/case_against_afghanistan.md
+      - file: chapter3/bibliography.md
   - caption: Conclusions & Bibliography
     chapters:
     - file: conclusions_bibliography/conclusions.md
-    - file: conclusions_bibliography/bibliography.md

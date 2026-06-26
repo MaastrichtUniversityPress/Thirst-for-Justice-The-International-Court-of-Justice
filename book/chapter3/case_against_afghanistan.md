@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Upon the Taliban’s return to power in August 2021, their dismantling of two decades of progress in women’s rights sparked worldwide backlash. In response, Australia, Canada, the Kingdom of the Netherlands, and Germany invoked Article 29 of the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) against the Afghanistan’s de facto authorities (Huckerby, 2025). These countries have formally called upon Afghanistan to cease its violations against women’s human rights. If Afghanistan does not react, this initiative may have the result that Australia and the other countries seize the ICJ against Afghanistan, doing so in solidarity with Afghan women.
+Upon the Taliban’s return to power in Afghanistan in August 2021, their dismantling of two decades of progress in women’s rights sparked worldwide backlash. In response, Australia, Canada, the Kingdom of the Netherlands, and Germany invoked Article 29 of the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) against the Afghanistan’s de facto authorities (Huckerby, 2025). These countries have formally called upon Afghanistan to cease its violations against women’s human rights. If Afghanistan does not react, this initiative may have the result that Australia and the other countries seize the ICJ against Afghanistan, doing so in solidarity with Afghan women.
 
 Afghanistan’s becoming a party to the CEDAW was historically progressive. As Farhoumand-Sims (2009) stated, “Afghanistan made history by becoming the first Muslim state to ratify CEDAW without ratifications” in 2003 (p.136). This ratification represented a binding pledge by the Afghan state to promote gender equality, regardless of the change in governmental authority.
 

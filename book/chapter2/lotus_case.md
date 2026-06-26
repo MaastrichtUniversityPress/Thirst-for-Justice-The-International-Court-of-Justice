@@ -3,6 +3,7 @@
 # 1. The Case of the S.S. Lotus 1927
 
 France v. Turkey, Judgement of the PCIJ in the Lotus Case, 7 September 1927
+
 Lotus Case (France v Turkey) [1927] PCIJ Rep Series A No 10
 
 ## Historical background

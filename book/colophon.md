@@ -37,7 +37,7 @@ ORCID: [add ORCID here](https://orcid.org/)
 
 Published by: [Maastricht University Press](https://library.maastrichtuniversity.nl/resources/maastricht-university-press/) | Maastricht University, The Netherlands  
 Version: 1.0.0  
-Publication date: May 2026  
+Publication date: June 2026  
 DOI: [10.26481/mup.2608](https://doi.org/10.26481/mup.2608)  
 
 **Copyright:** </br>

@@ -1,5 +1,9 @@
 ## 5. Application of the Convention on the Elimination of All Forms of Racial Discrimination
 
+(Armenia v. Azerbaijan) Application 16 September 2021
+
+(Azerbaijan v. Armenia) Application 23 September 2021
+
 ## Background of Conflict
 
 The primary conflict of this case revolves around the Nagorno Karabakh region which is located in the Southeastern stretch of the Lesser Caucasus mountain range. The latter region has been subject to strong tensions and ongoing warfare between Armenia and Azerbaijan. Nagorno Karabakh has been internationally recognised as part of Azerbaijan, however historically it was populated by ethnic Armenians. In 1991, following the collapse of the Soviet Union, ethnic Armenians living in Nagorno Karabakh region declared and submitted independence from Azerbaijan. This formed a self-proclaimed and further unrecognized state that was called the “Republic of Artsakh”. The Republic of Artsakh was endorsed politically by Armenia, however it lacked recognition from any member state that was part of the United Nations (Ourfalian, 2020). This led to a war between Armenia and Azerbaijan (1988-1994). Russian intervention led to a ceasefire in the region in 1994 ending the war resulting in Armenian forces gaining control over the Nagorno Karabakh region. A border crisis was triggered on 12 May 2021, that occurred as a result of Azerbaijani soldiers crossing several kilometers into Armenian territory and consequently occupying between 50 and 215 square kilometers. Despite foreign intervention by the European parliament, the United States and France, the republic of Azerbaijan did not withdraw. The Largest attack occurred in September 2022, when Azerbaijan initiated its largest military offensive against the Republic of Armenia. On 28 September 2023, the Republic of Artsakh agreed to dissolve itself by the 1st January 2024, this effectively ended its existence as a political entity that presided in the Nagorno Karabakh region (Ourfalian, 2020).
@@ -32,9 +36,9 @@ The case now proceeds to the merits phase, during which the ICJ will determine w
 
 ## Ruling of the ICJ on the Preliminary Objections in the case of Azerbaijan v Armenia
 
-On 12 November 2024, the ICJ handed down its decision on three preliminary objections raised by Azerbaijan in response to the proceedings brought by Armenia under CERD.
+On 12 November 2024, the ICJ handed down its decision on three preliminary objections raised by Armenia in response to the proceedings brought by Azerbaijan under CERD.
 
-Azerbaijan had accused Armenia of violating CERD, prompting Armenia to challenge the Court‘s jurisdiction on several grounds.
+Azerbaijan had itself instituted proceedings against Armenia and had accused Armenia of violating CERD, prompting Armenia to challenge the Court‘s jurisdiction on several grounds.
 
 ## First Preliminary Objection: Jurisdiction Ratione Temporis
 

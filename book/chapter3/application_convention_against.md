@@ -1,6 +1,6 @@
 # 6. Application of the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment
 
-(Canada and the Netherlands v. Syrian Arab Republic)
+(Canada and the Netherlands v. Syrian Arab Republic) Joint Application 8 June 2023
 
 ## Historical Context
 

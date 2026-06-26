@@ -82,7 +82,7 @@ By not deciding whether a genocide has taken place in Gaza and by highlighting t
 
 ## Relevant Case Law & Precedent
 
-The ICJ has clarified key legal principles through past cases, such as Bosnia v. Serbia (2007) where it confirmed that genocide, while Croatia v. Serbia (2015) allowed this intent to be inferred from conduct. In the Gambia v. Myanmar (2020), the Court held that a possible right and risk of irreparable harm are enough to justify provisional measures.
+The ICJ has clarified key legal principles through past cases, such as Bosnia v. Serbia (2007) where it confirmed that genocide, while Croatia v. Serbia (2015) allowed this intent to be inferred from conduct. In The Gambia v. Myanmar (2020), the Court held that a possible right and risk of irreparable harm are enough to justify provisional measures.
 
 ## Provisional Measures Issued (26 January 2024)
 
