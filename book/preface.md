@@ -14,4 +14,4 @@ To understand the Court in its context, and why it is reified by so many interna
 
 The chapters ahead invite you to join in this engagement: to understand how the ICJ functions as an institution, to travel through its seminal jurisprudence, and to peer into its future-oriented potential. Whether you are a newcomer to the Court or have previously dipped into its decisions, I hope this booklet provides you with the tools and some insights to make an informed judgment about justice, peace and politics in an unstable, yet inevitably globalised world.
 
-_Gleider Hernández1, Professor of Public International Law and Head of Department of International and European Law, Catholic University of Leuven (KU Leuven); immediate past President (2023-2025) of the European Society of International Law._
+_Gleider Hernández, Professor of Public International Law and Head of Department of International and European Law, Catholic University of Leuven (KU Leuven); immediate past President (2023-2025) of the European Society of International Law._
