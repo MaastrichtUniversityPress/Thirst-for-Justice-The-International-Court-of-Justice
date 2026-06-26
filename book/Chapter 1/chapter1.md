@@ -22,7 +22,6 @@ Below appears a bird’s eyeview of the history and evolution of the ICJ. It wil
 
 <img width="593" alt="Picture1" src="https://github.com/user-attachments/assets/417b8d39-4fe3-4a89-af82-ffddac2c7054" />
 
-
 ### The Permanent Court of Arbitration
 
 Though this chapter primarily addresses the history and work of the ICJ, it is also necessary to address the existence of its neighbour, the Hague-based, Peace Palace-located Permanent Court of Arbitration (PCA).
